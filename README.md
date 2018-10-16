@@ -13,3 +13,7 @@ Skills, tools, bookmarks.
 - [ ] **[Eslint](https://eslint.org)**
 - [ ] **[Babel](https://babeljs.io)**
 - [ ] **[Prettier](https://prettier.io)**
+
+### Bookmarks :zap:
+- [ ] **[Javascript ES6](https://github.com/lukehoban/es6features)**
+- [ ] **[PhpTheRightWay](https://phptherightway.com)**

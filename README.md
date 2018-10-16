@@ -11,6 +11,9 @@ Skills, tools, bookmarks.
 ### Tools - Frontend :zap:
 - [ ] **[Webpack](https://webpack.js.org)**
 - [ ] **[Eslint](https://eslint.org)**
+- [ ] **[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)**
+- [ ] **[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)**
+- [ ] **[eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)**
 - [ ] **[Babel](https://babeljs.io)**
 - [ ] **[Prettier](https://prettier.io)**
 

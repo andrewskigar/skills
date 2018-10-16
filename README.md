@@ -10,6 +10,7 @@ Skills, tools, bookmarks.
 
 ### Tools - Frontend :zap:
 - [ ] **[Webpack](https://webpack.js.org)**
+- [ ] **[Gulp](https://gulpjs.com)**
 - [ ] **[Eslint](https://eslint.org)**
 - [ ] **[eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)**
 - [ ] **[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)**

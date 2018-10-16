@@ -1,4 +1,4 @@
-# skills
+# Skills
 Skills, tools, bookmarks.
 
 ### Tools - Backend :zap:

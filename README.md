@@ -19,5 +19,7 @@ Skills, tools, bookmarks.
 - [ ] **[Prettier](https://prettier.io)**
 
 ### Bookmarks :zap:
+- [ ] **[Laravel](https://laravel.com)**
+- [ ] **[Vuejs](https://vuejs.org)**
 - [ ] **[Javascript ES6](https://github.com/lukehoban/es6features)**
 - [ ] **[PhpTheRightWay](https://phptherightway.com)**

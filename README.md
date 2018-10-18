@@ -16,7 +16,8 @@ Skills, tools, bookmarks.
 - [ ] **[eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier)**
 - [ ] **[eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)**
 - [ ] **[Babel](https://babeljs.io)**
-- [ ] **[Sass/Scss](https://sass-lang.com)**
+- [ ] **[SASS/SCSS](https://sass-lang.com)**
+- [ ] **[PostCSS](https://postcss.org)**
 - [ ] **[Prettier](https://prettier.io)**
 
 ### Bookmarks :zap:
